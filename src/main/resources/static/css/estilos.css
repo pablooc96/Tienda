@@ -1,0 +1,35 @@
+a{
+    background-color: blue;
+    color: white;
+}
+
+a:hover{
+    background-color: red;
+    color: white;
+    font-size: 22px
+}
+
+header{
+    text-align: center;
+    background-color: black;
+    color: white
+}
+
+article header{
+    text-align: center;
+    background-color: green;
+    color: black
+}
+
+figcaption {
+    color: red;
+}
+
+/*Esto es un id. Solo se puede usar una ves en la pagina*/
+#aviso{
+    background-color: #998B58;       
+}
+/*Esto es un class. Se puede usar varias veces en la pagina*/
+.producto {
+    background-color: #99d18b;
+}
